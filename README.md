@@ -4,7 +4,7 @@ Practice machine learning projects
 * Run the command: `conda env create --prefix ./env -f environment.yml` to download all the dependencies for the project and creata the workspace environment and then run `jupyter notebook` to open the notebook in your browser.
 * Libraries and Models used:
   * numpy
-  * matplotlib.pyplot
+  * matplotlib
   * pandas
   * sklearn
   * seaborn
