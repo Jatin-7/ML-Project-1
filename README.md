@@ -6,7 +6,7 @@ Practice machine learning projects
   * numpy
   * matplotlib
   * pandas
-  * sklearn
+  * scikit-learn
   * seaborn
   * LogisticRegression
   * KNN
